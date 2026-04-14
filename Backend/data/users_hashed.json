@@ -1,0 +1,50 @@
+[
+  {
+    "User_id": "EMP001",
+    "User_name": "Naman",
+    "Password": "$2b$10$XWnQjttjhID0O1JuSyoQm.YpNAuh0F0F13j9k1bVPVLLUpd4JAwvW",
+    "Role": "Employee",
+    "Email": "naman@namandarshan.com",
+    "Dep": "Sales"
+  },
+  {
+    "User_id": "EMP002",
+    "User_name": "John Doe",
+    "Password": "$2b$10$tvyi4B7PqHqu0.pITLZqY.Da1Wv7Ag.Ko/CWNb53qU3.gunnPMa8i",
+    "Role": "Employee",
+    "Email": "john@namandarshan.com",
+    "Dep": "Sales"
+  },
+  {
+    "User_id": "EMP003",
+    "User_name": "Sarah Smith",
+    "Password": "$2b$10$wzGhOpvowboNUiYFkip0TOPPES/QR6ibA4A6CbLLRnFIyqUJNKVIu",
+    "Role": "Employee",
+    "Email": "sarah@namandarshan.com",
+    "Dep": "Marketing"
+  },
+  {
+    "User_id": "EMP004",
+    "User_name": "Priya Sharma",
+    "Password": "$2b$10$5z6r9DztYBmidCzsWv.age8KZrl4/BD.GuuEJnyn9Cki4tWpOlsDy",
+    "Role": "Employee",
+    "Email": "priya@namandarshan.com",
+    "Dep": "HR"
+  },
+  {
+    "User_id": "EMP005",
+    "User_name": "Raj Kumar",
+    "Password": "$2b$10$8dr/YSqlMVdsPCCjEFBqSOWJQBREUFckgqcWh6IcTJAsKupmZzHyu",
+    "Role": "Employee",
+    "Email": "raj@namandarshan.com",
+    "Dep": "Operation"
+  },
+  {
+    "User_id": "EMP006",
+    "User_name": "Umang",
+    "Password": "$2b$10$CmygMGixkgBZU4OpLYwfGeJpW/5FCDC42YIKjTlpcpkw8qPt.9Ehm",
+    "Role": "Employee",
+    "Email": "umang@namandarhsna.com",
+    "Dep": "Finance"
+  }
+]
